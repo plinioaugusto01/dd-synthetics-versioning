@@ -1,1 +1,0 @@
-# dd-synthetics-versioning
